@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336879290657",
+    "project_id": "community-connect-3b27b",
+    "storage_bucket": "community-connect-3b27b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336879290657:android:be8844ecdef04a435ad660",
+        "android_client_info": {
+          "package_name": "com.example.community"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdwnQIFoctTO_soCqFFkPuNRYaKG44TBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
